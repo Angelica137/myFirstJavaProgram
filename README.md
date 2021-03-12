@@ -7,3 +7,5 @@ To run the program enter
 ```bash
 java HelloWorld
 ```
+
+in the command line.
